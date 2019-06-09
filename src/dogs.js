@@ -1,15 +1,18 @@
 import React from "react";
+import waterdogs from './waterdogs.jpg';
+import waterdogs2 from './waterdogs2.jpg';
+
 
 class Dogs extends React.Component {
-  onSubmit = () => {
-      this.props.history.push('/');
-  };
+
   
     render() {
     return (
-      <div>
+      <div className="Dogs">
         <h1>Dogs!</h1>
-        <button onClick={this.onSubmit}>MORE dogs!</button>
+        <img src={waterdogs} height="600" width="760" alt="dogs underwater pic" />
+        <hr />
+        <img src={waterdogs2} height="584" width="800" alt="more dogs underwater pic" />
       </div>
     );
   }

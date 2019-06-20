@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/router-presentation/static/css/main.0c42a7db.chunk.css",
+    "main.js": "/router-presentation/static/js/main.cf2428e9.chunk.js",
+    "main.js.map": "/router-presentation/static/js/main.cf2428e9.chunk.js.map",
+    "runtime~main.js": "/router-presentation/static/js/runtime~main.a3609b3c.js",
+    "runtime~main.js.map": "/router-presentation/static/js/runtime~main.a3609b3c.js.map",
+    "static/js/2.a4b9ca59.chunk.js": "/router-presentation/static/js/2.a4b9ca59.chunk.js",
+    "static/js/2.a4b9ca59.chunk.js.map": "/router-presentation/static/js/2.a4b9ca59.chunk.js.map",
+    "index.html": "/router-presentation/index.html",
+    "precache-manifest.296727e715a3d90335c7dcfcd91b9c0a.js": "/router-presentation/precache-manifest.296727e715a3d90335c7dcfcd91b9c0a.js",
+    "service-worker.js": "/router-presentation/service-worker.js",
+    "static/css/main.0c42a7db.chunk.css.map": "/router-presentation/static/css/main.0c42a7db.chunk.css.map",
+    "static/media/badcat.jpg": "/router-presentation/static/media/badcat.56b44db5.jpg",
+    "static/media/cat.jpg": "/router-presentation/static/media/cat.75f87f11.jpg",
+    "static/media/waterdogs.jpg": "/router-presentation/static/media/waterdogs.e781556b.jpg",
+    "static/media/waterdogs2.jpg": "/router-presentation/static/media/waterdogs2.722038ff.jpg"
+  }
+}

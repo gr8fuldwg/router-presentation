@@ -3,12 +3,13 @@ import waterdogs from "./waterdogs.jpg";
 import waterdogs2 from "./waterdogs2.jpg";
 import { Link } from "react-router-dom";
 
+
 function Dogs() {
   useEffect(() => {
     fetchItems();
   }, []);
 
-  const [items, setItems] = useState([]);
+ const [items, setItems] = useState([]);
 
   const fetchItems = async () => {
     const data = await fetch(
@@ -19,6 +20,8 @@ function Dogs() {
     console.log(items);
     setItems(items.items);
   };
+
+
 
   return (
     <div className="Dogs">

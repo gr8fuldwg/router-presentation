@@ -1,6 +1,26 @@
 .App {
   text-align: center;
-  color: royalblue;
+  list-style: none;
+}
+
+.header {
+  font-size: 50px;
+}
+
+.section1 {
+  text-align: left;
+  color: black;
+  font-size: 20px;
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+
+.section2 {
+  text-align: left;
+  color: black;
+  font-size: 20px;
+  margin-left: 5rem;
+  list-style: decimal;
 }
 
 .Dogs {
@@ -11,7 +31,7 @@
   text-align: center;
 }
 
-Nav {
+.Nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -20,10 +40,16 @@ Nav {
   font-size: 25px;
   color: white;
   text-decoration: none;
+  text-shadow: 3rem;
+}
+
+.logo {
+  font-size: 40px;
+
 }
 
 .nav-links {
-  width: 100%;
+  width: 40%;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -34,8 +60,13 @@ Nav {
 .text-white {
   color: white;
   text-decoration: none;
+  text-shadow: 3rem;
 }
 
-/* .active {
-  text-decoration: none;
-} */
+.container {
+  align-items: center;
+}
+
+.mr-3 {
+  margin-right: 3rem;
+}
